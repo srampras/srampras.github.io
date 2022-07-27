@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+[Home](https://srampras.github.io)  [Research](https://srampras.github.io/research) [Misc](https://srampras.github.io/misc)
+
+I am a postdoctoral associate in the department of Electrical and Computer Engineering at University of Minnesota. My undergraduate degree was in Electronics and Communication Engineering from the [National Institute of Technology Tiruchirappalli](https://nitt.edu/home/academics/departments/ece/) in 2009, followed by a PhD from the [Indian Institute of Technology Madras in 2002](https://www.ee.iitm.ac.in).
+
+I primarily work on Electronic Design Automation Algorithms, specifically on automation Back End of Line flow for custom digital, and analog/mixed signal designs. 
 
 You can use the [editor on GitHub](https://github.com/srampras/srampras.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srampras/srampras.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
