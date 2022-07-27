@@ -4,6 +4,4 @@ I am a postdoctoral associate in the department of Electrical and Computer Engin
 
 I primarily work on Electronic Design Automation Algorithms, specifically on automation Back End of Line flow for custom digital, and analog/mixed signal designs. 
 
-You can use the [editor on GitHub](https://github.com/srampras/srampras.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the past, I have worked on Statistical Static Timing Analysis at IBM, Custom Routing at Synopsys, and Machine Learning for SoC design at Qualcomm.
