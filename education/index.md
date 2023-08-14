@@ -1,0 +1,2 @@
+
+My undergraduate degree was in Electronics and Communication Engineering from the [National Institute of Technology Tiruchirappalli](https://nitt.edu/home/academics/departments/ece/), followed by a PhD advised by [Prof. Vinita Vasudevan](https://www.ee.iitm.ac.in/~vinita) from the [Indian Institute of Technology Madras](https://www.ee.iitm.ac.in). I was a postdoc in [Prof. Sachin Sapatnekar](https://www.ece.umn.edu/~sachin)'s lab at the University of Minnesota. 
