@@ -19,7 +19,7 @@ During my PhD, I worked on (a) efficient algorithms to find critical nodes in ti
 - S. Ramprasath and V. Vasudevan, "On the computation of criticality in statistical timing analysis", _Proceeedings of the International Conference on Computer-Aided Design_, 2012. [10.1145/2429384.2429418](https://doi.org/10.1145/2429384.2429418)
 
 
-# Accelerating Inference of Graph Neural Networks
+# Accelerating inference performance of Graph Neural Networks
 I have also worked on improving memory access of a GNN accelerator. Few publications:
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, Z. Zeng, and S. S. Sapatnekar, “GNNIE: GNN Inference Engine with Load-balancing and Graph-specific Caching,” _Proceedings of the Design Automation Conference_, 2022. [10.1145/3489517.3530503](https://doi.org/10.1145/3489517.3530503)
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, and S. S. Sapatnekar, "A Unified Engine for Accelerating GNN Weighting/Aggregation Operations, with Efficient Load Balancing and Graph-Specific Caching," _IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems_, December 2022. [10.1109/TCAD.2022.3232467](https://doi.org/10.1109/TCAD.2022.3232467)
