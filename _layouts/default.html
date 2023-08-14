@@ -36,6 +36,16 @@
       {{ content }}
 
       </section>
+      <p>Home <a href="{{ site.github.owner_url }}"></a></p>
+      <p>Research <a href="https://srampras.github.io/research"></a></p>
+      <p>Misc <a href="https://srampras.github.io/misc"></a></p>
+
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Theme:<a href="https://github.com/pages-themes/minimal">pages-themes/minimal</a></small></p>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
