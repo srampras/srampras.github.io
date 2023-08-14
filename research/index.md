@@ -1,4 +1,4 @@
-# [Analog/Mixed-Signal Layout Automation](/research/layout.md)
+# [Analog/Mixed-Signal Layout Automation](/research/layout)
 
 # Statistical Static Timing Analysis
 During my PhD, I worked on (a) efficient algorithms to find critical nodes in timing graphs under process variations with normal and skew-normal distributions, and (b) optimization of circuits for better timing yield. Select list of publications from my work:
