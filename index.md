@@ -11,9 +11,7 @@
 
 I am an Assistant Professor in the [Integrated Circuits Group](http://www.ee.iitm.ac.in/ics) of the [Department of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in). I primarily work on Electronic Design Automation (EDA) Algorithms, specifically on automation of Back End of Line (BEOL) flow for custom digital, and analog/mixed-signal (AMS) designs. 
 
-My undergraduate degree was in Electronics and Communication Engineering from the [National Institute of Technology Tiruchirappalli](https://nitt.edu/home/academics/departments/ece/), followed by a PhD advised by [Prof. Vinita Vasudevan](https://www.ee.iitm.ac.in/~vinita) from the [Indian Institute of Technology Madras](https://www.ee.iitm.ac.in). I was a postdoc in [Prof. Sachin Sapatnekar](https://www.ece.umn.edu/~sachin)'s lab at the University of Minnesota. 
-
-I have contributed to the placer and router in an open-source AMS layout generator, [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public.git). I worked for Synopsys after PhD, during which time I  developed various tools that are now part of the [Custom Compiler platform](https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html). 
+I was involved in the development of AMS placer and router in [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public.git), an open-source layout generator. During my stint at Synopsys after PhD, I developed various tools for BEOL automation that are now state-of-the-art and are part of [Custom Compiler platform](https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html). I have recently started working on mapping NP-hard and complete problems to Ising machines.
 
 # Openings
-I have recently started working on mapping NP-hard and complete problems to Ising machines. If you are like to pursue an MS/PhD degree in physical design or other EDA problems, you can email me your résumé. You are welcome to get in touch if interested in collaborating to solve similar problems.
+If you like to pursue an MS/PhD degree in (a) physical design/other EDA problems or (b) solving combinatorial problems using Ising machines, you can email me your résumé. If you are a researcher/developer interested in solving similar problems, you are welcome to get in touch.
