@@ -9,7 +9,7 @@
 </table>
 
 
-I am an Assistant Professor in the [Integrated Circuits Group](http://www.ee.iitm.ac.in/ics) of the [Department of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in). I primarily work on Electronic Design Automation (EDA) Algorithms, specifically on automation of Back End of Line (BEOL) flow for custom digital, and analog/mixed-signal (AMS) designs. 
+I am an Assistant Professor in the [Integrated Circuits and Systems Group](http://www.ee.iitm.ac.in/ics) of the [Department of Electrical Engineering, IIT Madras](https://www.ee.iitm.ac.in). I primarily work on Electronic Design Automation (EDA) Algorithms, specifically on automation of Back End of Line (BEOL) flow for custom digital, and analog/mixed-signal (AMS) designs. 
 
 I was involved in the development of AMS placer and router in [ALIGN](https://github.com/ALIGN-analoglayout/ALIGN-public.git), an open-source layout generator. During my stint at Synopsys after PhD, I developed various tools for BEOL automation that are now state-of-the-art and are part of [Custom Compiler platform](https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html). I have recently started exploring (a) mapping of NP-hard/ complete problems to Ising machines, and (b) use of techniques such as satisfiability modulo theory to solve the layout generation problem.
 
