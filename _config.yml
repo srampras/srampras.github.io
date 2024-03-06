@@ -15,18 +15,14 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 960px
 
 github_username: srampras, srini229
 scholar_userid: https://scholar.google.com/citations?user=mtpx4_YAAAAJ
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
+orcid_id: https://orcid.org/0000-0001-9487-9340
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
+work_url: https://www.ee.iitm.ac.in/faculty/profile/ramprasath
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
