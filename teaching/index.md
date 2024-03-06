@@ -1,4 +1,4 @@
-### EE5333 -- Introduction to Physical Design Automation -- Jan-May 2024
+### Introduction to Physical Design Automation -- Jan-May 2024
 
 This is an [elective](https://www.ee.iitm.ac.in/courses/syllabus/EE5333) offered by me at the Department of Electrical Engineering, IIT Madras.
 
