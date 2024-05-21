@@ -4,7 +4,8 @@ During my postdoc, I was primarily involved in the research and development of t
 <img src="/research/mimo.jpg" width="400" height="253">
 
 Below are few publications from my work in this problem:
-- J. Poojary, S. Ramprasath, S. S. Sapatnekar, and R. Harjani, "Exploration of Design / Layout Tradeoffs for RF Circuits using ALIGN," Proceedings of Radio Frequency Integrated Circuits Symposium (RFIC), 2023. [10.1109/RFIC54547.2023.10186141](https://doi.org/10.1109/RFIC54547.2023.10186141)
+- K. Kunal et al., "Reinforcing the Connection between Analog Design and EDA (Invited Paper)," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473957](https://doi.org/10.1109/ASP-DAC58780.2024.10473957)
+- J. Poojary, S. Ramprasath, S. S. Sapatnekar, and R. Harjani, "Exploration of Design / Layout Tradeoffs for RF Circuits using ALIGN," _Proceedings of Radio Frequency Integrated Circuits Symposium (RFIC)_, 2023. [10.1109/RFIC54547.2023.10186141](https://doi.org/10.1109/RFIC54547.2023.10186141)
 - S. Ramprasath, M. Madhusudan, A. K. Sharma, J. Poojary, S. Yaldiz, R. Harjani, S. M. Burns, and S. S. Sapatnekar, "A Generalized Methodology for Well Island Generation and Well-Tap Insertion in Analog/Mixed-Signal Layouts," _ACM Transactions on Design Automation of Electronic Systems_, March 2023. [10.1145/3580477](https://doi.org/10.1145/3580477)
 - S. Ramprasath, A. K. Sharma, M. Madhusudan, S. Yaldiz, J. Poojary, R. Harjani, S. M. Burns, and S. S. Sapatnekar, "Analog/Mixed-Signal Layout Optimization using Optimal Well Taps," _Proceedings of the ACM International Symposium on Physical Design_, 2022 (Nominated for Best Paper Award). [10.1145/3505170.3506728](https://doi.org/10.1145/3505170.3506728).
 - T. Dhar, S. Ramprasath, J. Poojary, S. Yaldiz, S. Burns, R. Harjani, and S. S. Sapatnekar, "A Charge Flow Formulation for Guiding Analog/Mixed-Signal Placement," _Proceedings of Design, Automation and Test in Europe_, 2022. [10.23919/DATE54114.2022.9774621](https://doi.org/10.23919/DATE54114.2022.9774621)
@@ -19,8 +20,11 @@ During my PhD, I worked on (a) efficient algorithms to find critical nodes in ti
 - S. Ramprasath and V. Vasudevan, "On the computation of criticality in statistical timing analysis", _Proceeedings of the International Conference on Computer-Aided Design_, 2012. [10.1145/2429384.2429418](https://doi.org/10.1145/2429384.2429418)
 
 
-# Accelerating inference performance of Graph Neural Networks
-I have also worked on improving memory access of a GNN accelerator. Few publications:
+# Combinatorial optimization using CMOS Ising solver
+- Hüsrev Cılasun, Ziqing Zeng, Ramprasath S et al., "3SAT on an all‑to‑all‑connected CMOS Ising solver chip," _Scientific Reports_, April 2024. [10.1038/s41598-024-60316-y](https://www.nature.com/articles/s41598-024-60316-y.epdf)
+
+# Graph Neural Networks and Synthesis of ML inference hardware
+- K. Kunal, J. Poojary, S. Ramprasath, R. Harjani and S. S. Sapatnekar, "Automated synthesis of mixed-signal ML inference hardware under accuracy constraints," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473942](https://doi.org/10.1109/ASP-DAC58780.2024.10473942).
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, Z. Zeng, and S. S. Sapatnekar, “GNNIE: GNN Inference Engine with Load-balancing and Graph-specific Caching,” _Proceedings of the Design Automation Conference_, 2022. [10.1145/3489517.3530503](https://doi.org/10.1145/3489517.3530503)
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, and S. S. Sapatnekar, "A Unified Engine for Accelerating GNN Weighting/Aggregation Operations, with Efficient Load Balancing and Graph-Specific Caching," _IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems_, December 2022. [10.1109/TCAD.2022.3232467](https://doi.org/10.1109/TCAD.2022.3232467)
 - S. Mondal, S. Ramprasath, Z. Zeng, K. Kunal, and S. S. Sapatnekar, "A Multicore GNN Training Accelerator," _Proceedings of the International Symposium on Low Power Electronics and Design_, 2023.
