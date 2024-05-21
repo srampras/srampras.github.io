@@ -13,6 +13,9 @@ Below are few publications from my work in this problem:
 - S. Ramprasath, A. K. Sharma, M. Madhusudan, S. Yaldiz, J. Poojary, R. Harjani, S. M. Burns, and S. S. Sapatnekar, "Analog/Mixed-Signal Layout Optimization using Optimal Well Taps," _Proceedings of the ACM International Symposium on Physical Design_, 2022 (Nominated for Best Paper Award). [10.1145/3505170.3506728](https://doi.org/10.1145/3505170.3506728).
 - T. Dhar, S. Ramprasath, J. Poojary, S. Yaldiz, S. Burns, R. Harjani, and S. S. Sapatnekar, "A Charge Flow Formulation for Guiding Analog/Mixed-Signal Placement," _Proceedings of Design, Automation and Test in Europe_, 2022. [10.23919/DATE54114.2022.9774621](https://doi.org/10.23919/DATE54114.2022.9774621)
 
+# Graph Neural Networks and Synthesis of ML inference hardware
+- K. Kunal, J. Poojary, S. Ramprasath, R. Harjani and S. S. Sapatnekar, "Automated synthesis of mixed-signal ML inference hardware under accuracy constraints," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473942](https://doi.org/10.1109/ASP-DAC58780.2024.10473942).
+
 # Statistical Static Timing Analysis
 During my PhD, I worked on (a) efficient algorithms to find critical nodes in timing graphs under process variations with normal and skew-normal distributions, and (b) optimization of circuits for better timing yield. Select list of publications from my work:
 
@@ -22,8 +25,7 @@ During my PhD, I worked on (a) efficient algorithms to find critical nodes in ti
 - S. Ramprasath and V. Vasudevan, "Statistical Criticality Computation Using the Circuit Delay," _IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems_, May 2014. [10.1109/TCAD.2013.2296436](https://doi.org/10.1109/TCAD.2013.2296436)
 - S. Ramprasath and V. Vasudevan, "On the computation of criticality in statistical timing analysis", _Proceeedings of the International Conference on Computer-Aided Design_, 2012. [10.1145/2429384.2429418](https://doi.org/10.1145/2429384.2429418)
 
-# Graph Neural Networks and Synthesis of ML inference hardware
-- K. Kunal, J. Poojary, S. Ramprasath, R. Harjani and S. S. Sapatnekar, "Automated synthesis of mixed-signal ML inference hardware under accuracy constraints," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473942](https://doi.org/10.1109/ASP-DAC58780.2024.10473942).
+# Graph Neural Network Inference Accelerator
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, Z. Zeng, and S. S. Sapatnekar, “GNNIE: GNN Inference Engine with Load-balancing and Graph-specific Caching,” _Proceedings of the Design Automation Conference_, 2022. [10.1145/3489517.3530503](https://doi.org/10.1145/3489517.3530503)
 - S. Mondal, S. D. Manasi, K. Kunal, S. Ramprasath, and S. S. Sapatnekar, "A Unified Engine for Accelerating GNN Weighting/Aggregation Operations, with Efficient Load Balancing and Graph-Specific Caching," _IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems_, December 2022. [10.1109/TCAD.2022.3232467](https://doi.org/10.1109/TCAD.2022.3232467)
 - S. Mondal, S. Ramprasath, Z. Zeng, K. Kunal, and S. S. Sapatnekar, "A Multicore GNN Training Accelerator," _Proceedings of the International Symposium on Low Power Electronics and Design_, 2023.
