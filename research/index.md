@@ -13,7 +13,7 @@ Below are few publications from my work in this problem:
 - S. Ramprasath, A. K. Sharma, M. Madhusudan, S. Yaldiz, J. Poojary, R. Harjani, S. M. Burns, and S. S. Sapatnekar, "Analog/Mixed-Signal Layout Optimization using Optimal Well Taps," _Proceedings of the ACM International Symposium on Physical Design_, 2022 (Nominated for Best Paper Award). [10.1145/3505170.3506728](https://doi.org/10.1145/3505170.3506728).
 - T. Dhar, S. Ramprasath, J. Poojary, S. Yaldiz, S. Burns, R. Harjani, and S. S. Sapatnekar, "A Charge Flow Formulation for Guiding Analog/Mixed-Signal Placement," _Proceedings of Design, Automation and Test in Europe_, 2022. [10.23919/DATE54114.2022.9774621](https://doi.org/10.23919/DATE54114.2022.9774621)
 
-# Graph Neural Networks and Synthesis of ML inference hardware
+# Synthesis of ML inference hardware
 - K. Kunal, J. Poojary, S. Ramprasath, R. Harjani and S. S. Sapatnekar, "Automated synthesis of mixed-signal ML inference hardware under accuracy constraints," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473942](https://doi.org/10.1109/ASP-DAC58780.2024.10473942).
 
 # Statistical Static Timing Analysis
