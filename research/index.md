@@ -10,6 +10,10 @@ Below are few publications from my work in this problem:
 - S. Ramprasath, A. K. Sharma, M. Madhusudan, S. Yaldiz, J. Poojary, R. Harjani, S. M. Burns, and S. S. Sapatnekar, "Analog/Mixed-Signal Layout Optimization using Optimal Well Taps," _Proceedings of the ACM International Symposium on Physical Design_, 2022 (Nominated for Best Paper Award). [10.1145/3505170.3506728](https://doi.org/10.1145/3505170.3506728).
 - T. Dhar, S. Ramprasath, J. Poojary, S. Yaldiz, S. Burns, R. Harjani, and S. S. Sapatnekar, "A Charge Flow Formulation for Guiding Analog/Mixed-Signal Placement," _Proceedings of Design, Automation and Test in Europe_, 2022. [10.23919/DATE54114.2022.9774621](https://doi.org/10.23919/DATE54114.2022.9774621)
 
+
+# Combinatorial optimization using CMOS Ising solver
+- Hüsrev Cılasun, Ziqing Zeng, Ramprasath S et al., "3SAT on an all‑to‑all‑connected CMOS Ising solver chip," _Scientific Reports_, April 2024. [10.1038/s41598-024-60316-y](https://www.nature.com/articles/s41598-024-60316-y.epdf)
+
 # Statistical Static Timing Analysis
 During my PhD, I worked on (a) efficient algorithms to find critical nodes in timing graphs under process variations with normal and skew-normal distributions, and (b) optimization of circuits for better timing yield. Select list of publications from my work:
 
@@ -18,10 +22,6 @@ During my PhD, I worked on (a) efficient algorithms to find critical nodes in ti
 - S. Ramprasath and V. Vasudevan, "An efficient algorithm for statistical timing yield optimization", _Proceedings of the Design Automation Conference_, 2015. [10.1145/2744769.2744796](https://doi.org/10.1145/2744769.2744796)
 - S. Ramprasath and V. Vasudevan, "Statistical Criticality Computation Using the Circuit Delay," _IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems_, May 2014. [10.1109/TCAD.2013.2296436](https://doi.org/10.1109/TCAD.2013.2296436)
 - S. Ramprasath and V. Vasudevan, "On the computation of criticality in statistical timing analysis", _Proceeedings of the International Conference on Computer-Aided Design_, 2012. [10.1145/2429384.2429418](https://doi.org/10.1145/2429384.2429418)
-
-
-# Combinatorial optimization using CMOS Ising solver
-- Hüsrev Cılasun, Ziqing Zeng, Ramprasath S et al., "3SAT on an all‑to‑all‑connected CMOS Ising solver chip," _Scientific Reports_, April 2024. [10.1038/s41598-024-60316-y](https://www.nature.com/articles/s41598-024-60316-y.epdf)
 
 # Graph Neural Networks and Synthesis of ML inference hardware
 - K. Kunal, J. Poojary, S. Ramprasath, R. Harjani and S. S. Sapatnekar, "Automated synthesis of mixed-signal ML inference hardware under accuracy constraints," _Proceedings of the Asia and South Pacific Design Automation Conference (ASP-DAC)_, 2024. [10.1109/ASP-DAC58780.2024.10473942](https://doi.org/10.1109/ASP-DAC58780.2024.10473942).
