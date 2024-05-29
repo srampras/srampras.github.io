@@ -7,3 +7,5 @@ The textbook followed is:
 
 Python notebooks used for tutorials in the class are available at:
 [EE5333_tutorials](https://github.com/srini229/EE5333_tutorials/)
+
+A version of recorded lectures of this course are available at this [URL](https://drive.google.com/drive/folders/1im9ye3G1Ng66m8Yu9kh7HdyP4F7g8Zg2?usp=sharing).
