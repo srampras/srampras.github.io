@@ -15,3 +15,5 @@ I was involved in the development of AMS placer and router in [ALIGN](https://gi
 
 # Openings
 If you are interested in pursuing an MS/PhD in physical design or in any of the aforesaid problems, you can email me your résumé. Formal [admissions](https://www.ee.iitm.ac.in/msphd/admission.php) for these programs happen twice a year. If you are a researcher/developer in industry interested in solving similar problems, you are welcome to get in touch.
+
+**If you are an undergraduate student, please do not email asking for internships**. Apply for the IIT Madras' official [Summer Fellowship Programme](https://ssp.iitm.ac.in/summer-fellowship-registration). Application portals opens in February every year.
